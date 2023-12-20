@@ -1,0 +1,79 @@
+{
+  "id": "4016232",
+  "name": "项目一腾讯视频网页",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5129",
+      "name": "精选市场",
+      "font_class": "jingxuanshichang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "76992",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "180894",
+      "name": "电视剧",
+      "font_class": "dianshiju",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "182596",
+      "name": "综艺",
+      "font_class": "zongyi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1305401",
+      "name": "历史",
+      "font_class": "lishi",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "4942661",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7594051",
+      "name": "24gl-playCircle",
+      "font_class": "24gl-playCircle",
+      "unicode": "ea6e",
+      "unicode_decimal": 60014
+    },
+    {
+      "icon_id": "11372668",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e8b1",
+      "unicode_decimal": 59569
+    },
+    {
+      "icon_id": "11809773",
+      "name": "动漫",
+      "font_class": "dongman",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "18514860",
+      "name": "创作者中心",
+      "font_class": "chuangzuozhezhongxin",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    }
+  ]
+}
